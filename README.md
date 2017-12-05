@@ -1,4 +1,4 @@
-# Cache-Design
+# Cache-Implementation
 
 This project was done as a part of the Computer Architecture Course, Semester-I 2017-18. 
 The cache has been implemented with the following specifications :
